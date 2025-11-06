@@ -1,0 +1,38 @@
+body {
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 14px;
+  text-align: center;
+  padding: 30px;
+}
+
+a {
+  display: block;
+  padding: 8px;
+}
+
+#title {
+  color: red;
+  font-family: YellowTail;
+  display: block;
+  margin: auto;
+  font-size: 28px;
+  font-weight: 400;
+  padding: 20px;
+}
+
+#header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+#header a {
+  display: inline;
+  cursor: pointer;
+}
+
+.linkSelected {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
