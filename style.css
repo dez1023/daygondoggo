@@ -11,6 +11,10 @@ a {
   padding: 8px;
 }
 
+img {
+  border-radius: 10px;
+}
+
 #title {
   color: red;
   font-family: YellowTail;
@@ -35,4 +39,8 @@ a {
 .linkSelected {
   text-decoration: underline;
   text-underline-offset: 5px;
+}
+
+.text_container {
+  margin-bottom: 50px;
 }
